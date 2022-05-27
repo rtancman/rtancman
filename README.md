@@ -1,6 +1,6 @@
 ### I'm Raffael Tancman 👋
 
-- 🔭 I’m currently working on information retrieval
+- 🔭 I’m currently working on information retrieval.
 - 🌱 I’m currently learning Scala, information retrieval and software architecture.
 - 👯 I’m looking to collaborate on:
   - [elastic4s](https://github.com/sksamuel/elastic4s) - Elasticsearch Scala Client
@@ -15,7 +15,8 @@
   - Runner 🏃
   - Swimmer 🏊
 
-Find me elsewhere 🌎
-🚀: [Site](https://www.rtancman.com.br/)
-🐦: [Twitter](https://www.twitter.com/rtancman)
-💼: [LinkedIn](https://linkedin.com/in/rtancman)
+### Find me elsewhere 🌎
+
+🚀: [Site](https://www.rtancman.com.br/) <br/>
+🐦: [Twitter](https://www.twitter.com/rtancman) <br/>
+💼: [LinkedIn](https://linkedin.com/in/rtancman) <br/>
