@@ -1,16 +1,21 @@
-### Hi there 👋
+### I'm Raffael Tancman 👋
 
-<!--
-**rtancman/rtancman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on information retrieval
+- 🌱 I’m currently learning Scala, information retrieval and software architecture.
+- 👯 I’m looking to collaborate on:
+  - [elastic4s](https://github.com/sksamuel/elastic4s) - Elasticsearch Scala Client
+  - [Python Blumenau Community](https://blumenau.sc.python.org.br/)
+  - [Elastic Blumenau Community](https://community.elastic.co/blumenau/)
+- 🤔 I’m looking for help with Scala and Elasticsearch.
+- 💬 Ask me about Software engineer in general. Let's talk!
+- 📫 How to reach me: `rtancman`
+- ⚡ Fun fact:
+  - Bodyboarder 🌊
+  - Gammer 🎮
+  - Runner 🏃
+  - Swimmer 🏊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me elsewhere 🌎
+🚀: [Site](https://www.rtancman.com.br/)
+🐦: [Twitter](https://www.twitter.com/rtancman)
+💼: [LinkedIn](https://linkedin.com/in/rtancman)
